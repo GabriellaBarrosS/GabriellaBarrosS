@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unifacisa;<br><br>• 💻 Apaixonada por programação e por aprender novas tecnologias;<br><br>• 🎀 Participei do Projeto do Bolsa Futuro Digital, ministrado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) em parceria com a Softex aprendendo Front-End em Desenvolvimento Web;
+• 🎓 Estudante de Sistemas da Informação na Unifacisa;<br><br>• 💻 Apaixonada por programação e por aprender novas tecnologias;<br><br>• 🎀 Participei do Projeto do Bolsa Futuro Digital, ministrado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) em parceria com a Softex aprendendo Front-End em Desenvolvimento Web;
 
 
 ## 🌐 Socials:
